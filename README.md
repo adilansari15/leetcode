@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/adilansari15/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/adilansari15/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,8 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/adilansari15/leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
