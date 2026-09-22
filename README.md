@@ -9,10 +9,12 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Linked List
@@ -22,5 +24,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
