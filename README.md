@@ -7,6 +7,7 @@
 | [0058-length-of-last-word](https://github.com/adilansari15/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adilansari15/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/adilansari15/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | [0075-sort-colors](https://github.com/adilansari15/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/adilansari15/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/adilansari15/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/adilansari15/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adilansari15/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/adilansari15/leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
