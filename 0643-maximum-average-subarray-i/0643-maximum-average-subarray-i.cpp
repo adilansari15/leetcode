@@ -7,8 +7,8 @@ public:
             
         }
         maxsum = sum;
-        for(int end = k; end<nums.size(); end++){
-            sum += - nums[end-k] + nums[end];
+        for(int j = k; j<nums.size(); j++){
+            sum += - nums[j-k] + nums[j];
            maxsum = max(maxsum, sum);
         }
         double avg = (double)maxsum/k;
