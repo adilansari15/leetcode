@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adilansari15/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/adilansari15/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/adilansari15/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adilansari15/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adilansari15/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adilansari15/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
