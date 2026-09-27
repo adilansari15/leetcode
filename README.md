@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/adilansari15/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adilansari15/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1470-shuffle-the-array](https://github.com/adilansari15/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adilansari15/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adilansari15/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
