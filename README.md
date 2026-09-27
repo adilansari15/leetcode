@@ -10,6 +10,7 @@
 | [0392-is-subsequence](https://github.com/adilansari15/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/adilansari15/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/adilansari15/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adilansari15/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adilansari15/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/adilansari15/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adilansari15/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,8 @@
 | [0567-permutation-in-string](https://github.com/adilansari15/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/adilansari15/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adilansari15/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adilansari15/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
