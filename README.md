@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/adilansari15/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adilansari15/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adilansari15/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/adilansari15/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/adilansari15/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adilansari15/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -34,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/adilansari15/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/adilansari15/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0645-set-mismatch](https://github.com/adilansari15/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adilansari15/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | [0075-sort-colors](https://github.com/adilansari15/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/adilansari15/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/adilansari15/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/adilansari15/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/adilansari15/leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
