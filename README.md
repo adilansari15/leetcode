@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adilansari15/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0058-length-of-last-word](https://github.com/adilansari15/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/adilansari15/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/adilansari15/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -52,6 +53,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adilansari15/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/adilansari15/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/adilansari15/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/adilansari15/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -71,6 +73,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adilansari15/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/adilansari15/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/adilansari15/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
@@ -118,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adilansari15/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adilansari15/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
